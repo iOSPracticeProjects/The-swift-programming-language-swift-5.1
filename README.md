@@ -14,14 +14,14 @@ The swift programming language swift 5.1(https://docs.swift.org/swift-book/Langu
 - Inheritance
 - initialization
 - Deinitialization
-- optional Changing
+- Optional Changing
 - Error Changing
 - Type Casting
 - Nested Types
 - Extentions
 - protocals
 - Generics
-- opaque Types
+- Opaque Types
 - Automatic References
 - Counting
 - Memory Safety
